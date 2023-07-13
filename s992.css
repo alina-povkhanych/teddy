@@ -1,0 +1,22 @@
+@media screen and (max-width:993px) {
+.offers a{
+    font-size: 13px;
+}
+.main_nav{
+    display: none;
+}
+.burger_nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 30px;
+    height: 20px;
+}
+.burger_nav div{
+    height: 4px;
+    background-color: black;
+    width: 100%;
+    border-radius: 2px;
+}
+}

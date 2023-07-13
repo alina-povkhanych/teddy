@@ -1,0 +1,11 @@
+@media screen and (max-width:769px) {
+    .offers a{
+    font-size: 11px;
+}
+.logo{
+    width: 15%;
+}
+.logo img{
+    width: 100%;
+}
+}

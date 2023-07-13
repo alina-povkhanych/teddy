@@ -1,0 +1,11 @@
+@media screen and (max-width:1201px) {
+    .menu{
+        gap: 20px;
+    }
+    .link_item{
+        font-size: 16px;
+    }
+    nav .container{
+        max-width: 95%;
+    }
+}
